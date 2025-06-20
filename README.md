@@ -12,7 +12,7 @@ This project was developed as part of the IIIT Hyderabad Summer Internship 2025.
 - Object detection using Ultralytics YOLOv8
 - Custom wildlife dataset (e.g., elephant, buffalo, zebra, rhino)
 - Trained for 20 epochs
-- Evaluated using mAP, Precision, Recall, F1_curve and Confusion Matrix
+- Evaluated using mAP, Precision, Recall, F1 Curve, and Confusion Matrix
 
 ## Sample Outputs
 
