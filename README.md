@@ -23,7 +23,7 @@ This project was developed as part of the IIIT Hyderabad Summer Internship 2025.
 ![PR Curve](runs/detect/train/images/PR_curve.png)
 
 ### Sample Prediction
-<img src="runs/detect/train/images/value_batch1_labels.jpg" width="300"/>
+<img src="runs/detect/train/images/val_batch1_labels.jpg" width="300"/>
 
 ## Run Inference
 
